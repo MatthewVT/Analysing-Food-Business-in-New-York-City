@@ -1,4 +1,4 @@
-# Coursera_Capstone
-This repository will be used to publish tasks from the Coursera Data Science Cap Stone course.
+# Analysing Food Business in New York City
 
-The final Jupyter notebook is in the week 5 folder.
+This repository contains the jupyter notebook as well as the report that was used to complete the IBM Data Science Professional Certificate.
+
